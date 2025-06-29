@@ -1,0 +1,12 @@
+# Node modules (библиотеки)
+node_modules/
+
+# Сборка React
+build/
+
+# Файлы окружения (не для гита)
+.env
+
+# Служебные файлы macOS / Windows
+.DS_Store
+Thumbs.db
